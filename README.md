@@ -7,7 +7,7 @@ Development of algorithms and techniques for solving complex problems, using Mat
 Output example of Matlab tool used for neural networks in a regression problem:
 
 Neural Network regression problem|
-:-------------------------:|
+:-------------------------------:|
   ![output_neural](https://github.com/marietonik/Computational-Intelligence/assets/53263761/5a1b9a7f-ba64-466d-bb08-9e01926946ba)|
 
 * Genetic algorithms are a type of optimization algorithm that is inspired by the process of natural selection.
