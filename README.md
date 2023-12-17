@@ -22,4 +22,4 @@ Output example of Matlab tool used for viewing a Fuzzy Logic's surface according
 
 Fuzzy Logic's surface problem|
 :-------------------------------:|
-![job_criminality_example_plot](https://github.com/marietonik/Computational-Intelligence/assets/53263761/659703c9-50de-452b-92bb-e2c7947e75f5)
+![job_criminality_example_plot](https://github.com/marietonik/Computational-Intelligence/assets/53263761/659703c9-50de-452b-92bb-e2c7947e75f5)|
