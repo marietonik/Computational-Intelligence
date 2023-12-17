@@ -1,0 +1,17 @@
+%% Main function - minimization:
+clc; clear;
+
+type Equation_fitness.m;
+
+FitnessFcn = @Equation_fitness; 
+
+nvars = 3;
+
+%ploting for lb, ub:
+lb = [-10 -10 -10]; ub = [10 10 10];
+x_t = 
+func_to_plot = x_t.^(3) + x_t.^(2) + x_t + 57;
+%options = optimoptions(@gamultiobj,'PlotFcn',{@gaplotpareto,@gaplotscorediversity});
+options = optimoptions(@gamultiobj,'UseVectorized',true);
+
+[x, fval, exitflag, output] = gamultiobj(FitnessFcn, nvars, [], [], [], [], lb, ub, options);
