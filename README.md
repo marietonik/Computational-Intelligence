@@ -13,11 +13,13 @@ Neural Network regression problem|
 * Genetic algorithms are a type of optimization algorithm that is inspired by the process of natural selection.
 Output example of Matlab tool, "optimtool" used for optimization purposes in genetic algorithm problem given:
 
-
-![optimtool_2](https://github.com/marietonik/Computational-Intelligence/assets/53263761/0f26418c-0607-46c0-8d87-fbc500cd46fa)
+Genetic Algorithms problem|
+:-------------------------------:|
+![optimtool_2](https://github.com/marietonik/Computational-Intelligence/assets/53263761/0f26418c-0607-46c0-8d87-fbc500cd46fa)|
 
 * Fuzzy logic is a type of mathematical logic that deals with approximate rather than precise reasoning.
 Output example of Matlab tool used for viewing a Fuzzy Logic's surface according to a reasonable problem given:
 
-
+Fuzzy Logic's surface problem|
+:-------------------------------:|
 ![job_criminality_example_plot](https://github.com/marietonik/Computational-Intelligence/assets/53263761/659703c9-50de-452b-92bb-e2c7947e75f5)
