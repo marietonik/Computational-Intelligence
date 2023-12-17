@@ -6,6 +6,7 @@ Development of algorithms and techniques for solving complex problems, using Mat
 * Neural network as a machine learning algorithm for computing results of function given.
 Output example of Matlab tool used for neural networks in a regression problem:
 
+Neural Network regression problem|
 :-------------------------:|
   ![output_neural](https://github.com/marietonik/Computational-Intelligence/assets/53263761/5a1b9a7f-ba64-466d-bb08-9e01926946ba)|
 
